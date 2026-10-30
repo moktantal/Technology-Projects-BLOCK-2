@@ -6,7 +6,8 @@ Describe how you configured the server's static IP.
 
 📸 **Screenshot: Server IP configuration**
 
----
+<img width="1014" height="949" alt="Screenshot 2026-10-30 124004" src="https://github.com/user-attachments/assets/a75633ca-c0c1-4606-a5ba-c5724eb883a5" />
+
 
 ### 3.2 DHCP Configuration  
 Describe the DHCP pool you created (gateway, DNS, start IP, etc).
