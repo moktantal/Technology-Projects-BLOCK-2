@@ -1,5 +1,3 @@
-<img width="1797" height="1640" alt="Screenshot 2026-10-30 123232" src="https://github.com/user-attachments/assets/9b8a203d-5847-4e96-9834-f2868c73c607" />
-
 ## 🛠️ 3. Server Configuration (DHCP + DNS)
 
 ### 3.1 Static IP Settings  
