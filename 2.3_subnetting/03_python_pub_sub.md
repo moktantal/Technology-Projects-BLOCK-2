@@ -39,7 +39,7 @@ import paho.mqtt.publish as publish
 # Create two test messages
 msgs = [
     {'topic': "my test", 'payload': "test 1"},
-    ('topic': "my test", 'payload': "test 2", 0, False)
+    {'topic': "my test", 'payload': "test 2"}
 ]
 
 # Use TLS for a secure connection with EMQX Cloud
